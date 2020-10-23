@@ -117,6 +117,8 @@ window.addEventListener("load", function(event) {
 
         p.innerHTML = "Carrots: " + game.world.carrot_count;
 
+
+
         display.render();
 
     };
@@ -166,6 +168,8 @@ window.addEventListener("load", function(event) {
     p.setAttribute("style", "color:#c07000; font-size:2.0em; position:fixed;");
     p.innerHTML = "Carrots: 0";
     document.body.appendChild(p);
+
+
 
     ////////////////////
     //// INITIALIZE ////

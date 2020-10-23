@@ -512,6 +512,7 @@ Game.World = function(friction = 0.85, gravity = 2) {
     this.height = this.tile_set.tile_size * this.rows;
     this.width = this.tile_set.tile_size * this.columns;
 
+
 };
 Game.World.prototype = {
 
