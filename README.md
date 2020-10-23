@@ -5,7 +5,7 @@ Link do gry:https://l.facebook.com/l.php?u=http%3A%2F%2Frabbit-health.cba.pl%2F%
 
 
 Gra Rabbit-Health polega na zbieraniu warzyw a za odpowiednia ilość Odblokowujesz kolejne poziomy oraz doblokowujesz propozycje diet.
-Aby gre uruchomić wystarczy wejść w powyszży Link lub
+Aby gre uruchomić wystarczy wejść w powyższy Link lub
 
 1.Pobrać pliki z mojego repozytorium
 
