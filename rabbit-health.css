@@ -57,3 +57,11 @@ canvas {
     font-size: 1.5em;
     text-decoration: none;
 }
+
+img {
+    float: left;
+    width: 150px;
+    height: 150px;
+    position: fixed;
+    right: 90%;
+}
