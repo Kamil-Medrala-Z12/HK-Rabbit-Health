@@ -21,3 +21,7 @@ Aby gre uruchomić wystarczy wejść w powyższy Link lub
 
 5.Wejść w przeglądarke wpisać localhost/ i gra się uruchomi(jeśli wcześniej nie miałeś tam plików)
 
+
+UWAGI:
+Jeśli podczass rozgrywki przejścia z jednego zonu do drugiego królik wypadnie poza plansze wystarczy odświerzyć stronę
+
